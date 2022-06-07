@@ -5,9 +5,8 @@ function App() {
   return (
     <div className="App">
 
-    <h1>hello react js</h1>
-    <h2>kdkfdl</h2>
-    <h3> react git push</h3>
+    
+    <h1> react folder push github</h1>
      
         
     </div>
