@@ -1,13 +1,17 @@
 import "./App.css";
 import { BrowserRouter } from "react-router-dom";
-import Nav from "./Component/Nav";
+import Header from "./Component/Header";
+
 
 function App() {
   return (
+    <>
     <BrowserRouter>
-      <Nav />
+    <Header/>
+    
     </BrowserRouter>
-  );
+    </>
+    );
 }
 
 export default App;
