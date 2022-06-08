@@ -1,12 +1,12 @@
 import "./App.css";
+import { BrowserRouter } from "react-router-dom";
 import Nav from "./Component/Nav";
 
 function App() {
   return (
-    <div className="App">
-      
-      <Nav/>
-    </div>
+    <BrowserRouter>
+      <Nav />
+    </BrowserRouter>
   );
 }
 
