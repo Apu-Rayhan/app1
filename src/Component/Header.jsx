@@ -1,18 +1,16 @@
-import React from 'react'
-import Nav from "./Component/Nav";
+import React from "react";
+import Nav from "./Nav";
+import Router from "./Router";
 
 const Header = () => {
   return (
     <>
-    <div className="header">
-
-    <h1>header component</h1>
-    <Nav/>
-    
-    
-    </div>
+      <div className="header">
+      <Nav />
+      </div>
+      <Router/>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

@@ -1,0 +1,19 @@
+.header {
+    border: 1px solid;
+    display: flex;
+    width: 100%;
+    background-color: aqua;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding-left: 20px;
+    list-style: none;
+}
+
+a {text-decoration: none;}
+.active{color: rgb(255, 255, 255);}
