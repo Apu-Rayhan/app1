@@ -50,3 +50,15 @@ a {
   position: relative;
   top: 12px;
 }
+
+.home {
+  width: 100%;
+  height: 100vh;
+}
+
+.card {
+  width: 95%;
+  height: 30rem;
+  margin: auto;
+  border: 1px solid;
+}
