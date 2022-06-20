@@ -9,6 +9,8 @@
   width: 100%;
   height: 4rem;
   background-color: #080738e0;
+  position: sticky;
+  top:0;
 }
 .navbar {
   /* border: 1px solid white; */
@@ -53,7 +55,7 @@ a {
 
 .home {
   width: 100%;
-  height: 100vh;
+  height: 100%;
 }
 
 .card {
