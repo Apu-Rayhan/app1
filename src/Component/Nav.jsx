@@ -6,10 +6,10 @@ import { AiOutlineBars } from "@react-icons/all-files/ai/AiOutlineBars";
 const Nav = () => {
   return (
     <>
-      <div className="navbar">
-        <div className="toggleButtom">
-        <button><AiOutlineBars/></button>
-        </div>
+      <div className="navbar ">
+          <div className="toggleButtom">
+          <button><AiOutlineBars/></button>
+          </div>
 
         <div className="links">
           <NavLink to="/">Home</NavLink>
