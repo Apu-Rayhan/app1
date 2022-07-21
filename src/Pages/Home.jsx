@@ -10,6 +10,7 @@ const Home = () => {
       <Skills/>
       
       
+      
         
       </div>
     </>
