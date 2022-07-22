@@ -9,13 +9,8 @@ const Home = () => {
       <Card/>
       <Skills/>
       
-      
-      
-      
-      
-      
-      
-      
+
+
       
         
       </div>
