@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "../Component/Card";
 import Skills from "../Component/Skills";
+import Color from "../Component/Color";
 
 const Home = () => {
   return (
@@ -8,6 +9,7 @@ const Home = () => {
       <div className="home">
       <Card/>
       <Skills/>
+      <Color/>
       
 
 
